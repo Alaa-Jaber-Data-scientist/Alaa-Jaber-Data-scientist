@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **Alaa Jaber**
+- 👀 I’m interested in Machine learning and AI
+- 🌱 I’m currently learning Data science and Machine Learning in **Hyperiondev data science Boot camp**.
+- 📫 You can reach me through my LinkedIn profile: https://www.linkedin.com/in/alaa-jaber-data-scientist/
